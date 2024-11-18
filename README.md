@@ -64,7 +64,3 @@ On backend main directory run
 ```properties
 mvn test
 ```
-
-## Demo
-[Watch Demo on Youtube](https://youtu.be/RIsA3FVIdf4)
->>>>>>> 2203bfa (Adicionando conteúdo completo do projeto)
